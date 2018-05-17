@@ -93,3 +93,4 @@ If you've tried LIME and are willing to share what went well, and what didn't, p
 ## Contributing
 
 Please read [this](CONTRIBUTING.md).
+#annie_lime module for prediction explanations
